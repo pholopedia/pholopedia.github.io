@@ -187,6 +187,10 @@ SOFTWARE.
 MIT
 MIT
 
+ngx-twitter-timeline@0.1.4
+MIT
+MIT
+
 @angular/platform-browser-dynamic@5.2.11
 MIT
 MIT
