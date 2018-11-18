@@ -553,6 +553,14 @@ MIT
 @angular/forms
 MIT
 
+@angular/fire/firestore
+MIT
+
+@angular/fire
+MIT
+
+firebase/firestore
+
 @angular/flex-layout
 MIT
 <<<<<<< HEAD
@@ -782,14 +790,6 @@ THE SOFTWARE.
 
 >>>>>>> Initial commit
 
-
-@angular/fire/firestore
-MIT
-
-@angular/fire
-MIT
-
-firebase/firestore
 
 ngx-facebook
 MIT
