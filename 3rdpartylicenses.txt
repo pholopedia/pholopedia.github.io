@@ -210,6 +210,9 @@ MIT
 @angular/common
 MIT
 
+@angular/platform-browser
+MIT
+
 firebase/app
 
 @firebase/polyfill
@@ -312,9 +315,6 @@ Apache-2.0
 
 @firebase/webchannel-wrapper
 Apache-2.0
-
-@angular/platform-browser
-MIT
 
 rxjs-compat
 Apache-2.0
